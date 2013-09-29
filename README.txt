@@ -17,3 +17,8 @@ How to:
 
 -The configuration will be automatically show in your default web browser and will be saved in the the same folder.
 
+
+
+If you're in windows and you don't want to compile nothing I already uploaded the executable file with the instructions in the following link
+
+http://www.4shared.com/rar/_zhFaKtf/screpa.html?
